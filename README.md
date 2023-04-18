@@ -2,4 +2,4 @@
 ### ISTA 421/ INFO 521
 ------
 Create a Machine Learning Model to predit the Semi-Finals of NBA playoffs
-Use data from 2017-2022 season
+Used data from 2018-2022 season
